@@ -1,4 +1,4 @@
-# NYC-311-Pulse-Unlocking-the-City-s-Service-Request-Insights
+# NYC-311-Pulse-Unlocking-the-City-Service-Request-Insights
 
 Welcome to NYC 311 Pulse, a data cleaning and exploratory data analysis (EDA) project focused on uncovering insights from New York City's 311 service requests. This project aims to clean, analyze, and visualize a large dataset of 311 complaints to identify trends, patterns, and actionable insights that can help improve city services and response times.
 
