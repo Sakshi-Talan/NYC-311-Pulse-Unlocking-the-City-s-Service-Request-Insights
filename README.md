@@ -15,25 +15,39 @@ This project is a comprehensive example of how data cleaning, manipulation, and 
 
 ### Data Cleaning:
  • Handling missing and duplicate values.
+ 
  • Standardizing text columns (e.g., converting to lowercase).
+ 
  • Converting date-time columns to the correct format.
+ 
  • Removing irrelevant or empty columns.
+ 
 
 ### Data Manipulation:
  • Extracting time-based features (e.g., year, month, day, hour, day of the week).
+ 
  • Grouping complaints into broader categories (e.g., "Noise", "Parking").
+ 
  • Calculating response times for each complaint.
+ 
 
 ### Exploratory Data Analysis (EDA):
  • Complaints by Borough: Visualizing the distribution of complaints across NYC boroughs.
+ 
  • Top 10 Most Common Complaints: Identifying the most frequent complaint types.
+ 
  • Trends Over Time: Analyzing monthly and hourly trends in complaints.
+ 
  • Complaints by Day of the Week: Understanding how complaints vary by day.
+ 
  • Response Time Distribution: Visualizing the time taken to resolve complaints.
+ 
 
 ### Visualizations:
  • Bar plots, line plots, and heatmaps to showcase trends and patterns.
+ 
  • Interactive and informative visualizations to make the data accessible.
+ 
 
 ### Saving Cleaned Data:
 The cleaned dataset, along with new features, is saved to a CSV file for future use.
@@ -50,6 +64,9 @@ Through this analysis, we uncovered several key insights:
 Based on these insights, we provide actionable recommendations, such as:
 
  • Allocating more resources to high-complaint boroughs.
+ 
  • Targeting interventions for the most common complaints.
+ 
  • Improving response times for delayed complaints.
+ 
  • Preparing for seasonal spikes in complaints.
